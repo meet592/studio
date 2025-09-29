@@ -1,3 +1,82 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "A serene Japanese tea ceremony setup with a bowl of matcha.",
+      "imageUrl": "https://images.unsplash.com/photo-1755184108649-b2a9ea5c83ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYXRjaGElMjBjZXJlbW9ueXxlbnwwfHx8fDE3NTkxNjQyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "matcha ceremony"
+    },
+    {
+      "id": "product-ceremonial-matcha",
+      "description": "A tin of ceremonial grade matcha powder.",
+      "imageUrl": "https://images.unsplash.com/photo-1624893464449-22a7e40de7c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWF0Y2hhJTIwcG93ZGVyfGVufDB8fHx8MTc1OTExODczNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "matcha powder"
+    },
+    {
+      "id": "product-culinary-matcha",
+      "description": "A bag of culinary grade matcha powder.",
+      "imageUrl": "https://images.unsplash.com/photo-1542957057-debadce4ce81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYXRjaGElMjBiYWd8ZW58MHx8fHwxNzU5MTY0MjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "matcha bag"
+    },
+    {
+      "id": "product-matcha-whisk",
+      "description": "A traditional bamboo matcha whisk (chasen).",
+      "imageUrl": "https://images.unsplash.com/photo-1565117940609-9ff00dc86e9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYXRjaGElMjB3aGlza3xlbnwwfHx8fDE3NTkxNjQyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "matcha whisk"
+    },
+    {
+      "id": "product-matcha-bowl",
+      "description": "A beautiful ceramic matcha bowl (chawan).",
+      "imageUrl": "https://images.unsplash.com/photo-1621453571889-0b228e998080?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWF0Y2hhJTIwYm93bHxlbnwwfHx8fDE3NTkxNjQyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "matcha bowl"
+    },
+    {
+      "id": "product-starter-kit",
+      "description": "A complete matcha starter kit with whisk, bowl, and scoop.",
+      "imageUrl": "https://images.unsplash.com/photo-1691164093555-f2bd22a700f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYXRjaGElMjBraXR8ZW58MHx8fHwxNzU5MTY0MjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "matcha kit"
+    },
+    {
+      "id": "product-hojicha-powder",
+      "description": "A tin of roasted green tea (hojicha) powder.",
+      "imageUrl": "https://images.unsplash.com/photo-1631149206144-4549c0468787?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0ZWElMjBwb3dkZXJ8ZW58MHx8fHwxNzU5MTY0MjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tea powder"
+    },
+    {
+      "id": "product-genmaicha-tea",
+      "description": "Loose leaf genmaicha tea with roasted rice.",
+      "imageUrl": "https://images.unsplash.com/photo-1694942587160-3fcfecc29762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bG9vc2UlMjB0ZWF8ZW58MHx8fHwxNzU5MTY0MjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "loose tea"
+    },
+    {
+      "id": "brew-guide-1",
+      "description": "Adding matcha powder to a bowl.",
+      "imageUrl": "https://images.unsplash.com/photo-1753009712870-a40156af0b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYXRjaGElMjBwcmVwYXJhdGlvbnxlbnwwfHx8fDE3NTkxNjQyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "matcha preparation"
+    },
+    {
+      "id": "brew-guide-2",
+      "description": "Pouring hot water into the matcha bowl.",
+      "imageUrl": "https://images.unsplash.com/photo-1657269946528-fb9aa16fd925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3VyaW5nJTIwd2F0ZXJ8ZW58MHx8fHwxNzU5MTY0MjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pouring water"
+    },
+    {
+      "id": "brew-guide-3",
+      "description": "Whisking matcha into a froth.",
+      "imageUrl": "https://images.unsplash.com/photo-1708980886904-5dfd906acdee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3aGlza2luZyUyMG1hdGNoYXxlbnwwfHx8fDE3NTkxNjQyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "whisking matcha"
+    },
+    {
+      "id": "brew-guide-4",
+      "description": "A perfectly prepared bowl of matcha ready to drink.",
+      "imageUrl": "https://images.unsplash.com/photo-1634568574062-9ec92b06eb96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWF0Y2hhJTIwY3VwfGVufDB8fHx8MTc1OTE2NDI0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "matcha cup"
+    },
+    {
+      "id": "thank-you-hero",
+      "description": "A cup of matcha latte with latte art.",
+      "imageUrl": "https://images.unsplash.com/photo-1582785513054-8d1bf9d69c1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXRjaGElMjBsYXR0ZXxlbnwwfHx8fDE3NTkxNjQyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "matcha latte"
+    }
+  ]
 }
