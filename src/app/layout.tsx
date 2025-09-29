@@ -6,7 +6,7 @@ import SiteFooter from '@/components/site/footer';
 import FloatingPetals from '@/components/site/floating-petals';
 
 export const metadata: Metadata = {
-  title: 'Sakura Sip',
+  title: 'Mocha Choca',
   description: 'A modern e-commerce experience for matcha lovers.',
 };
 

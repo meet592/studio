@@ -16,7 +16,7 @@ export default function RegisterPage() {
           <form className="grid gap-4">
             <div className="grid gap-2">
               <Label htmlFor="full-name">Full Name</Label>
-              <Input id="full-name" placeholder="Sakura Sip" required />
+              <Input id="full-name" placeholder="Mocha Choca" required />
             </div>
             <div className="grid gap-2">
               <Label htmlFor="email">Email</Label>

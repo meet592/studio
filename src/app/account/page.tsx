@@ -70,16 +70,16 @@ export default function AccountPage() {
                  <div className="grid grid-cols-2 gap-4">
                   <div>
                     <Label htmlFor="first-name">First Name</Label>
-                    <Input id="first-name" defaultValue="Sakura" />
+                    <Input id="first-name" defaultValue="Mocha" />
                   </div>
                   <div>
                     <Label htmlFor="last-name">Last Name</Label>
-                    <Input id="last-name" defaultValue="Sip" />
+                    <Input id="last-name" defaultValue="Choca" />
                   </div>
                 </div>
                 <div>
                   <Label htmlFor="email">Email</Label>
-                  <Input id="email" type="email" defaultValue="sakura@example.com" />
+                  <Input id="email" type="email" defaultValue="mocha@example.com" />
                 </div>
                 <Separator />
                  <div>

@@ -9,7 +9,7 @@ const SiteFooter = () => {
           <div className="md:col-span-1">
             <Link href="/" className="flex items-center gap-2 font-headline text-2xl">
               <Leaf className="text-primary" />
-              <span>Sakura Sip</span>
+              <span>Mocha Choca</span>
             </Link>
             <p className="mt-4 text-muted-foreground text-sm">
               Embrace the ritual of matcha.
@@ -42,7 +42,7 @@ const SiteFooter = () => {
           </div>
         </div>
         <div className="mt-8 border-t border-border pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Sakura Sip. All Rights Reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Mocha Choca. All Rights Reserved.</p>
         </div>
       </div>
     </footer>

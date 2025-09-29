@@ -22,7 +22,7 @@ const SiteHeader = () => {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link href="/" className="flex items-center gap-2 font-headline text-2xl">
           <Leaf className="text-primary" />
-          <span>Sakura Sip</span>
+          <span>Mocha Choca</span>
         </Link>
         
         {isMobile ? (
