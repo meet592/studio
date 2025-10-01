@@ -81,7 +81,7 @@
     {
       "id": "takeaway-cup",
       "description": "A takeaway coffee cup with a lid.",
-      "imageUrl": "https://storage.googleapis.com/studiopicker-assets/mocha-choca/takeaway-cup-no-bg.png",
+      "imageUrl": "https://images.unsplash.com/photo-1621111928019-b5f7e6f9b2d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&q=80&w=1080",
       "imageHint": "takeaway cup"
     }
   ]

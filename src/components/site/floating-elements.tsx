@@ -38,3 +38,5 @@ const FloatingElements = () => {
 };
 
 export default FloatingElements;
+
+    
