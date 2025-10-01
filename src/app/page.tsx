@@ -7,6 +7,7 @@ import ProductCard from '@/components/product/product-card';
 import { getProducts } from '@/lib/products';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
 import ScrollReveal from '@/components/site/scroll-reveal';
+import FloatingElements from '@/components/site/floating-elements';
 
 export default function Home() {
   const featuredProducts = getProducts().slice(0, 3);
@@ -83,7 +84,13 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="py-16 md:py-24 bg-secondary/50">
+      <section className="py-16 md:py-24 bg-secondary/50 overflow-hidden">
+        <div className="container mx-auto px-4">
+          <FloatingElements />
+        </div>
+      </section>
+
+      <section className="py-16 md:py-24 bg-background">
         <div className="container mx-auto px-4">
           <ScrollReveal>
             <div className="text-center max-w-3xl mx-auto mb-12">
@@ -110,7 +117,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="py-16 md:py-24 bg-background">
+      <section className="py-16 md:py-24 bg-secondary/50">
         <div className="container mx-auto px-4">
           <ScrollReveal>
             <div className="grid md:grid-cols-2 gap-8 md:gap-12 items-center">
@@ -159,7 +166,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="py-16 md:py-24 bg-secondary/50">
+      <section className="py-16 md:py-24 bg-background">
         <div className="container mx-auto px-4">
           <ScrollReveal>
             <div className="text-center max-w-3xl mx-auto">
