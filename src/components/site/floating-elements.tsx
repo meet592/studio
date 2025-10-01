@@ -5,18 +5,18 @@ import { PlaceHolderImages } from '@/lib/placeholder-images';
 import ScrollReveal from './scroll-reveal';
 
 const FloatingElements = () => {
-  const displayImage = PlaceHolderImages.find(p => p.id === 'thank-you-hero');
+  const displayImage = PlaceHolderImages.find(p => p.id === 'takeaway-cup');
   return (
     <div className="relative">
       <div className="grid md:grid-cols-2 gap-8 md:gap-12 items-center">
         <ScrollReveal>
-          <div className="relative aspect-square rounded-lg overflow-hidden shadow-2xl">
+          <div className="relative aspect-square">
             {displayImage && (
             <Image 
                 src={displayImage.imageUrl} 
-                alt="A cup of matcha" 
+                alt="A takeaway cup of matcha" 
                 fill
-                className="object-cover"
+                className="object-contain animate-float"
                 data-ai-hint={displayImage.imageHint}
                 />
             )}
